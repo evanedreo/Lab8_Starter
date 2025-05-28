@@ -1,7 +1,7 @@
 # Lab8-Starter
 
 ### Name =
-Evan
+Evan Honggo Widjojo
 
 ### GitHub Pages URL =
 https://evanedreo.github.io/Lab8_Starter/
